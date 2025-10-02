@@ -9,7 +9,7 @@
   [![Stars](https://img.shields.io/github/stars/gaurav87565/Lanya-2.0?style=social)](https://github.com/gaurav87565/Lanya-2.0/stargazers)
 </div>
 
-## ✨ About Lanya
+## ✨ About UPKG RELEASE 
 
 Lanya is a Discord bot built to improve server engagement and provide useful tools for both administrators and members. With commands ranging from fun interactions to powerful moderation tools.
 
